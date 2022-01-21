@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+#Display somethings
+echo something
+
